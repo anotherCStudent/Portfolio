@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+<<<<<<< HEAD
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+=======
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>>>>>>> 2a24c354cd6d9c7be8fef23c6828d3aa20d6860b
+	>
+
+<channel>
+	<title>Updates Archives - Stuarrt&#039;s Portfolio</title>
+	<atom:link href="/category/updates/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 27 Aug 2025 19:50:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<item>
+		<title>New Update</title>
+		<link>/2025/08/27/new-update/</link>
+		
+		<dc:creator><![CDATA[trrauts]]></dc:creator>
+		<pubDate>Wed, 27 Aug 2025 19:50:49 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">/?p=220</guid>
+
+					<description><![CDATA[<p>I recently updated my portfolio with new projects, prints, school info, and new work. Please check it out.</p>
+<p>The post <a href="/2025/08/27/new-update/">New Update</a> appeared first on <a href="">Stuarrt&#039;s Portfolio</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>I recently updated my portfolio with new projects, prints, school info, and new work. Please check it out.</p>
+<p>The post <a href="/2025/08/27/new-update/">New Update</a> appeared first on <a href="">Stuarrt&#039;s Portfolio</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">220</post-id>	</item>
+		<item>
+		<title>Life Update</title>
+		<link>/2025/03/24/life-update/</link>
+		
+		<dc:creator><![CDATA[trrauts]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 02:08:09 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">/?p=180</guid>
+
+					<description><![CDATA[<p>I recently went through and updated everything as of 3/23/2025, I&#8217;m in a new school but always welcoming new opportunities. Feel free to contact me if you have something you think I&#8217;d be a great fit for. &#8211; Stuarrt Boekelman</p>
+<p>The post <a href="/2025/03/24/life-update/">Life Update</a> appeared first on <a href="">Stuarrt&#039;s Portfolio</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>I recently went through and updated everything as of 3/23/2025, I&#8217;m in a new school but always welcoming new opportunities. Feel free to contact me if you have something you think I&#8217;d be a great fit for.</p>
+
+
+
+<p>                                                                &#8211;  Stuarrt Boekelman</p>
+<p>The post <a href="/2025/03/24/life-update/">Life Update</a> appeared first on <a href="">Stuarrt&#039;s Portfolio</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">180</post-id>	</item>
+		<item>
+		<title>Welcome to my Portfolio</title>
+		<link>/2024/07/29/welcome-to-my-portfolio/</link>
+					<comments>/2024/07/29/welcome-to-my-portfolio/#respond</comments>
+		
+		<dc:creator><![CDATA[trrauts]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2024 02:15:54 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">/?p=153</guid>
+
+					<description><![CDATA[<p>Hi, my name is Stuarrt and I wanted to welcome you to my portfolio. I&#8217;m currently in the middle of summer quarter as I get this first version of the site finished. I hope you find it easy to navigate and if you need anything please contact me.</p>
+<p>The post <a href="/2024/07/29/welcome-to-my-portfolio/">Welcome to my Portfolio</a> appeared first on <a href="">Stuarrt&#039;s Portfolio</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Hi, my name is Stuarrt and I wanted to welcome you to my portfolio. I&#8217;m currently in the middle of summer quarter as I get this first version of the site finished. I hope you find it easy to navigate and if you need anything please contact me.</p>
+<p>The post <a href="/2024/07/29/welcome-to-my-portfolio/">Welcome to my Portfolio</a> appeared first on <a href="">Stuarrt&#039;s Portfolio</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/07/29/welcome-to-my-portfolio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">153</post-id>	</item>
+	</channel>
+</rss>
